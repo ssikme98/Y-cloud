@@ -1,0 +1,5 @@
+# Project exclude paths
+/y-cloud-consumer/target/
+/y-cloud-provider1/target/
+/y-cloud-provider2/target/
+/y-cloud-server-eureka/target/
